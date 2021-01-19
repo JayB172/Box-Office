@@ -14,6 +14,9 @@ function App() {
       <Route exact path="/starred">
         <Starred />
       </Route>
+      <Route>
+        404. Page is Not foud!
+      </Route>
     </Switch>
     
     
